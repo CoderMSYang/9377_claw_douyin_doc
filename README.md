@@ -10,6 +10,6 @@
 #### (4) 原数据改用txt文本形式,解决数据量过大excel卡死现象
 ### 汉语词库在result文件夹下面，名为dict.txt
 
-![avatar](image.png)
+![avatar](statement.png)
 
 ## version 2.0更新至此
